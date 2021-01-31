@@ -1,2 +1,2 @@
-ARG test_arg=1234
+ARG testarg=1234
 CP root /
